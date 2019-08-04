@@ -1,0 +1,24 @@
+[{
+    "id": "1",
+    "movies": "Spider Man",
+    "category": "cartoon",
+    "year": "2000"
+},
+{
+    "id": "2",
+    "movies": "Mummy Returns",
+    "category": "Horor",
+    "year": "1999"
+},
+{
+    "id": "3",
+    "movies": "2012",
+    "category": "disaster",
+    "year": "2011"
+},
+{
+    "id": "4",
+    "movies": "Blue whale",
+    "category": "action",
+    "year": "20013"
+}]
